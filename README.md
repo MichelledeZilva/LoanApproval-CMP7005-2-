@@ -1,3 +1,5 @@
+[Streamlit URL: https://loanapproval-cmp7005.streamlit.app/]
+
 Loan Approval Prediction System
 ---------------------------------------
 This project develops a machine learning-based Loan Approval Prediction System using applicant, financial, credit, employment, and loan-related information.
